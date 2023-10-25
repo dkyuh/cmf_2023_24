@@ -8,8 +8,8 @@ list_title: Sessions
 
 ## Themen
 	
-- [[2023-10-10-einfuehrung-in-cmf-jupyter-notebooks-markdown]]
-- **Tools**: [[2023-10-10-jupyter_notebook]]; [[2023-10-10-markdown]]; [[2023-10-17-python-auffrischung]]; [[2023-10-24-numpy]]; Matplotlib
+- [[2023-10-10-einfuehrung-in-cmf-jupyter-notebooks-markdown|Einführung in die computergestützte Musikforschung]]
+- **Tools**: [[2023-10-10-jupyter_notebook|Jupyter Notebooks]]; [[2023-10-10-markdown|Markdown]]; [[2023-10-17-python-auffrischung|Python Auffrischung]]; [[2023-10-24-numpy|NumPy]]; Matplotlib
 - **DSP und Akustik Grundlagen**: Sampling; Quantisierung; (Erzeugung von) Sinuswellen; Visualisierung von Wellenformen mit `matplotlib`; Frequenz-MIDI-Berechnung; Hüllkurvenberechnung mittels Time-Framing
 - **Fourier Transformation und Spektralanalyse**: komplexe Zahlen; Eulersche Identität; Eulersche Formel; komplexe Exponentialfunktion; Ähnlichkeitsmaß; Winding Machine; Diskrete Fourier Transformation (DFT)
 - **Short Time Fourier Transformation (STFT) und Spektrogramme**: STFT; Fensterung (Wiederholung und Neu-Anwendung); Darstellung von Spektrogrammen
