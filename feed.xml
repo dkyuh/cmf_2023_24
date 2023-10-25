@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-25T23:49:40+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">(Audio-basierte) Computergestützte Musikforschung</title><entry><title type="html">NumPy</title><link href="http://localhost:4000/2023/10/24/numpy.html" rel="alternate" type="text/html" title="NumPy" /><published>2023-10-24T17:00:08+02:00</published><updated>2023-10-24T17:00:08+02:00</updated><id>http://localhost:4000/2023/10/24/numpy</id><content type="html" xml:base="http://localhost:4000/2023/10/24/numpy.html"><![CDATA[<div class="jupyter-notebook" style="position: relative; width: 100%; margin: 0 auto;">
+  <div class="jupyter-notebook-iframe-container">
+    <iframe src="/assets/notebooks/numpy.ipynb.html" style="position: absolute; top: 0; left: 0; border-style: none;" width="100%" height="100%" onload="this.parentElement.style.paddingBottom = (this.contentWindow.document.documentElement.scrollHeight + 10) + 'px'"></iframe>
+  </div>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Python Auffrischung</title><link href="http://localhost:4000/2023/10/17/python-auffrischung.html" rel="alternate" type="text/html" title="Python Auffrischung" /><published>2023-10-17T18:00:00+02:00</published><updated>2023-10-17T18:00:00+02:00</updated><id>http://localhost:4000/2023/10/17/python-auffrischung</id><content type="html" xml:base="http://localhost:4000/2023/10/17/python-auffrischung.html"><![CDATA[<div class="jupyter-notebook" style="position: relative; width: 100%; margin: 0 auto;">
+  <div class="jupyter-notebook-iframe-container">
+    <iframe src="/assets/notebooks/python_auffrischung.ipynb.html" style="position: absolute; top: 0; left: 0; border-style: none;" width="100%" height="100%" onload="this.parentElement.style.paddingBottom = (this.contentWindow.document.documentElement.scrollHeight + 10) + 'px'"></iframe>
+  </div>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Jupyter Notebooks</title><link href="http://localhost:4000/2023/10/10/jupyter_notebook.html" rel="alternate" type="text/html" title="Jupyter Notebooks" /><published>2023-10-10T18:02:00+02:00</published><updated>2023-10-10T18:02:00+02:00</updated><id>http://localhost:4000/2023/10/10/jupyter_notebook</id><content type="html" xml:base="http://localhost:4000/2023/10/10/jupyter_notebook.html"><![CDATA[<div class="jupyter-notebook" style="position: relative; width: 100%; margin: 0 auto;">
+  <div class="jupyter-notebook-iframe-container">
+    <iframe src="/assets/notebooks/jupyter_notebook.ipynb.html" style="position: absolute; top: 0; left: 0; border-style: none;" width="100%" height="100%" onload="this.parentElement.style.paddingBottom = (this.contentWindow.document.documentElement.scrollHeight + 10) + 'px'"></iframe>
+  </div>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Markdown</title><link href="http://localhost:4000/2023/10/10/markdown.html" rel="alternate" type="text/html" title="Markdown" /><published>2023-10-10T18:02:00+02:00</published><updated>2023-10-10T18:02:00+02:00</updated><id>http://localhost:4000/2023/10/10/markdown</id><content type="html" xml:base="http://localhost:4000/2023/10/10/markdown.html"><![CDATA[<h1 id="markdown">Markdown</h1>
+
+<pre><code class="language-Markdown"># Title
+## Heading 1
+### Heading 2
+...
+###### Heading 6
+</code></pre>
+
+<h1 id="title">Title</h1>
+<h2 id="heading-1">Heading 1</h2>
+<h3 id="heading-2">Heading 2</h3>
+<p>…</p>
+<h6 id="heading-6">Heading 6</h6>
+
+<h2 id="basics">Basics</h2>
+
+<p>Man kann hier einfach Text schreiben - mit ein paar extra-Zeichen, kann der Text formatiert werden, z.B.</p>
+
+<pre><code class="language-Markdown">- **Text in doppelten Sternchen ist fett** 
+- *Text in einfachen Sternchen ist kursiv*
+- Stichpunkte mit 'Minus' `-`
+- `Backticks für Code in Markdown` (in deutscher Mac-Tastatur 'Shift' + eine Taste links neben 'Delete' für Backticks)
+
+1. Nummerierte Stichpunkte mit Ziffern
+2. Unterlisten mit Einrückung (Tab)
+    - hier ist eine Unterliste
+    - mit noch einem zweiten Punkt
+3. Links:
+    - [Angezeigter Link-Text](URL)
+</code></pre>
+
+<ul>
+  <li><strong>Text in doppelten Sternchen ist fett</strong></li>
+  <li><em>Text in einfachen Sternchen ist kursiv</em></li>
+  <li>Stichpunkte mit ‘Minus’ <code class="language-plaintext highlighter-rouge">-</code>
+</li>
+  <li>
+<code class="language-plaintext highlighter-rouge">Backticks für Code in Markdown</code> (in deutscher Mac-Tastatur ‘Shift’ + eine Taste links neben ‘Delete’ für Backticks)</li>
+</ul>
+
+<ol>
+  <li>Nummerierte Stichpunkte mit Ziffern</li>
+  <li>Unterlisten mit Einrückung (Tab)
+    <ul>
+      <li>hier ist eine Unterliste</li>
+      <li>mit noch einem zweiten Punkt</li>
+    </ul>
+  </li>
+  <li>Links:
+    <ul>
+      <li><a href="URL" class="web-link">Angezeigter Link-Text</a></li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="eingebettete-links">Eingebettete Links</h2>
+
+<pre><code class="language-Markdown">![Alternativer Text](https://cdn11.bigcommerce.com/s-dwlxj/images/stencil/2560w/products/3146/5285/60watt-edison-bulb__02843.1508283240.jpg?c=2)
+</code></pre>
+
+<p><img src="https://cdn11.bigcommerce.com/s-dwlxj/images/stencil/2560w/products/3146/5285/60watt-edison-bulb__02843.1508283240.jpg?c=2" alt="Alternative Text"></p>
+
+<h2 id="latex-mathe">LaTeX-Mathe</h2>
+
+<p>Formeln in Markdown mit <a href="https://www.latex-project.org/" class="web-link">LaTeX</a></p>
+
+<h3 id="formeln-im-fließtext">Formeln im Fließtext</h3>
+
+<pre><code class="language-Markdown">Diese Formel: $a^2 + b^2 = c^2$ bleibt im Fließtext.
+</code></pre>
+
+<p>Diese Formel: $a^2 + b^2 = c^2$ bleibt im Fließtext.</p>
+
+<h3 id="formeln-alleinstehend">Formeln alleinstehend</h3>
+
+<pre><code class="language-Markdown">Diese Formel: 
+
+$$e^{\pi i} = -1$$
+
+wird in die Mitte gerückt und steht normalerweise als eigener Absatz.
+</code></pre>
+
+<p>Diese Formel:</p>
+
+\[e^{\pi i} = -1\]
+
+<p>wird in die Mitte gerückt und steht normalerweise als eigener Absatz.</p>
+
+<h2 id="code-blocks">Code-Blocks</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    ```Python
+    def add(a, b):
+        return a + b
+    ```
+</code></pre></div></div>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="k">def</span> <span class="nf">add</span><span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">):</span>
+    <span class="k">return</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span></code></pre></figure>]]></content><author><name></name></author><summary type="html"><![CDATA[Markdown]]></summary></entry><entry><title type="html">Einführung in die computergestützte Musikforschung</title><link href="http://localhost:4000/2023/10/10/einfuehrung-in-cmf-jupyter-notebooks-markdown.html" rel="alternate" type="text/html" title="Einführung in die computergestützte Musikforschung" /><published>2023-10-10T18:00:00+02:00</published><updated>2023-10-10T18:00:00+02:00</updated><id>http://localhost:4000/2023/10/10/einfuehrung-in-cmf-jupyter-notebooks-markdown</id><content type="html" xml:base="http://localhost:4000/2023/10/10/einfuehrung-in-cmf-jupyter-notebooks-markdown.html"><![CDATA[<h2 id="einführung-in-die-computergestützte-musikforschung">Einführung in die computergestützte Musikforschung</h2>
+
+<iframe src="/assets/slides/00_intro_cmf.pdf" width="100%" height="500px"></iframe>]]></content><author><name></name></author><summary type="html"><![CDATA[Einführung in die computergestützte Musikforschung]]></summary></entry></feed>
