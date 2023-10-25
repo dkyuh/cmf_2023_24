@@ -1,5 +1,6 @@
 #!/usr/bin/env zsh
 
+set -e
 git checkout gh-pages
 
 # get the directory from the main branch
