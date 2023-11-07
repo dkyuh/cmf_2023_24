@@ -2,7 +2,7 @@
 
 [Jekyll Website](https://dkyuh.github.io/cmf_2023_24/)
 
-- [Einführung in die computergestützte Musikforschung](/cmf_jekyll/_posts/2023-10-10-einfuehrung-in-cmf-jupyter-notebooks-markdown.md)
+- [Einführung in die computergestützte Musikforschung](/cmf_jekyll/_site/assets/slides/00_intro_cmf.pdf)
 - **Tools**: [Jupyter Notebooks](/cmf_jekyll/assets/notebooks/jupyter_notebook.ipynb); [Markdown](/cmf_jekyll/_posts/2023-10-10-markdown.md); [Python Auffrischung](/cmf_jekyll/assets/notebooks/python_auffrischung.ipynb); [NumPy](/cmf_jekyll/assets/notebooks/numpy.ipynb); [Matplotlib](/cmf_jekyll/assets/notebooks/matplotlib.ipynb)
 - **DSP und Akustik Grundlagen**:
 	- [Sampling; (Erzeugung von) Sinuswellen; Visualisierung von Wellenformen mit `matplotlib`](/cmf_jekyll/_site/2023/10/31/sinuswelle-erzeugen.html)
