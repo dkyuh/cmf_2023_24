@@ -12,12 +12,17 @@ list_title: Sessions
 - **Tools**: [[2023-10-10-jupyter_notebook|Jupyter Notebooks]]; [[2023-10-10-markdown|Markdown]]; [[2023-10-17-python-auffrischung|Python Auffrischung]]; [[2023-10-24-numpy|NumPy]]; [[2023-10-31-matplotlib|Matplotlib]]
 - **DSP und Akustik Grundlagen**:
 	- [[2023-10-31-sinuswelle-erzeugen|Sinuswelle Erzeugen]]: Sampling; (Erzeugung von) Sinuswellen; Visualisierung von Wellenformen mit `matplotlib`
-	- Frequenz-MIDI-Berechnung; Hüllkurvenberechnung mittels Time-Framing; (Quantisierung)
+	- [[2023-11-07-midifreq_timeframing|Frequenz-MIDI-Berechnung; Hüllkurvenberechnung mittels Time-Framing]]
 - **Fourier Transformation und Spektralanalyse**: komplexe Zahlen; Eulersche Identität; Eulersche Formel; komplexe Exponentialfunktion; Ähnlichkeitsmaß; Winding Machine; Diskrete Fourier Transformation (DFT)
 - **Short Time Fourier Transformation (STFT) und Spektrogramme**: STFT; Fensterung (Wiederholung und Neu-Anwendung); Darstellung von Spektrogrammen
 - **Audio Features**: (z.B.: Spektrale Zentrumsfrequenz, Chromagramm, MFCCs) mit `librosa`
 - **Music Information Retrieval (MIR) und Anwendungen**: (wie z.B.: Genre-Erkennung)
 - **Projektarbeit - Ideenfindung**
+
+### Übung
+
+- [[2023-10-23-uebung|Übung_01]]
+- [[2023-11-06-uebung-02|Übung_02]]
 
 ## Literatur
 
