@@ -25,6 +25,12 @@ list_title: Sessions
 - [[2023-11-06-uebung-02|Übung_02]]
 - [[2023-11-13-uebung-03|Übung_03]]
 
+### Geogebra-Ressourcen
+
+- [01_zahlenstrahl_zahlenflaeche.ggb](https://github.com/dkyuh/cmf_2023_24/blob/main/cmf_jekyll/assets/geogebra/01_zahlenstrahl_zahlenflaeche.ggb)
+- [02_conjugate_inverse.ggb](https://github.com/dkyuh/cmf_2023_24/blob/main/cmf_jekyll/assets/geogebra/02_conjugate_inverse.ggb)
+- [03_laenge_winkel.ggb](https://github.com/dkyuh/cmf_2023_24/blob/main/cmf_jekyll/assets/geogebra/03_laenge_winkel.ggb)
+
 ## Literatur
 
 - Meredith, D. (Ed.). (2016). _Computational Music Analysis_. Springer International Publishing. [https://doi.org/10.1007/978-3-319-25931-4](https://doi.org/10.1007/978-3-319-25931-4)

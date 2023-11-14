@@ -12,9 +12,15 @@
 - **Audio Features**: (z.B.: Spektrale Zentrumsfrequenz, Chromagramm, MFCCs) mit `librosa`
 - **Music Information Retrieval (MIR) und Anwendungen**: (wie z.B.: Genre-Erkennung)
 - **Projektarbeit - Ideenfindung**
-
+	
 ## Übung
 
 - [Übung_01](/cmf_jekyll/assets/uebungen/TCGM_01.ipynb)
 - [Übung_02](/cmf_jekyll/assets/uebungen/TCGM_02.ipynb)
 - [Übung_03](/cmf_jekyll/assets/uebungen/TCGM_03.ipynb)
+
+## Geogebra-Ressourcen
+
+- [01_zahlenstrahl_zahlenflaeche.ggb](/cmf_jekyll/assets/geogebra/01_zahlenstrahl_zahlenflaeche.ggb)
+- [02_conjugate_inverse.ggb](/cmf_jekyll/assets/geogebra/02_conjugate_inverse.ggb)
+- [03_laenge_winkel.ggb](/cmf_jekyll/assets/geogebra/03_laenge_winkel.ggb)
