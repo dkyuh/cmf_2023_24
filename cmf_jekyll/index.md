@@ -23,6 +23,7 @@ list_title: Sessions
 
 - [[2023-10-23-uebung|Übung_01]]
 - [[2023-11-06-uebung-02|Übung_02]]
+- [[TCGM_03 .ipynb|Übung_03]]
 
 ## Literatur
 
