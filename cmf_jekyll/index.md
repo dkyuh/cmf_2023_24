@@ -31,6 +31,8 @@ list_title: Sessions
 - [01_zahlenstrahl_zahlenflaeche.ggb](https://github.com/dkyuh/cmf_2023_24/blob/main/cmf_jekyll/assets/geogebra/01_zahlenstrahl_zahlenflaeche.ggb)
 - [02_conjugate_inverse.ggb](https://github.com/dkyuh/cmf_2023_24/blob/main/cmf_jekyll/assets/geogebra/02_conjugate_inverse.ggb)
 - [03_laenge_winkel.ggb](https://github.com/dkyuh/cmf_2023_24/blob/main/cmf_jekyll/assets/geogebra/03_laenge_winkel.ggb)
+- [04_funktionen.ggb](https://github.com/dkyuh/cmf_2023_24/blob/main/cmf_jekyll/assets/geogebra/04_funktionen.ggb)
+- [05_imaginaere_e-funktion.ggb](https://github.com/dkyuh/cmf_2023_24/blob/main/cmf_jekyll/assets/geogebra/05_imaginaere_e-funktion.ggb)
 
 ## Literatur
 
