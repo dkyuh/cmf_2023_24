@@ -13,7 +13,8 @@ list_title: Sessions
 - **DSP und Akustik Grundlagen**:
 	- [[2023-10-31-sinuswelle-erzeugen|Sinuswelle Erzeugen]]: Sampling; (Erzeugung von) Sinuswellen; Visualisierung von Wellenformen mit `matplotlib`
 	- [[2023-11-07-midifreq_timeframing|Frequenz-MIDI-Berechnung; Hüllkurvenberechnung mittels Time-Framing]]
-- **Fourier Transformation und Spektralanalyse**: [[2023-11-14-komplexe-zahlen|komplexe Zahlen]]; [[2023-11-21-euler|Eulersche Identität; Eulersche Formel; komplexe Exponentialfunktion]]; Ähnlichkeitsmaß; Winding Machine; Diskrete Fourier Transformation (DFT)
+- **Fourier Transformation und Spektralanalyse**: [[2023-11-14-komplexe-zahlen|komplexe Zahlen]]; [[2023-11-21-euler|Eulersche Identität; Eulersche Formel; komplexe Exponentialfunktion]]; [[2023-11-28-aehnlichkeitsmass-winding-machine|Ähnlichkeitsmaß; Winding Machine]]; Diskrete Fourier Transformation (DFT)
+---
 - **Short Time Fourier Transformation (STFT) und Spektrogramme**: STFT; Fensterung (Wiederholung und Neu-Anwendung); Darstellung von Spektrogrammen
 - **Audio Features**: (z.B.: Spektrale Zentrumsfrequenz, Chromagramm, MFCCs) mit `librosa`
 - **Music Information Retrieval (MIR) und Anwendungen**: (wie z.B.: Genre-Erkennung)
