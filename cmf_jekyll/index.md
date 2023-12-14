@@ -1,23 +1,20 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 list_title: Sessions
 ---
 
 ## Themen
-	
+
 - [[2023-10-10-einfuehrung-in-cmf-jupyter-notebooks-markdown|Einführung in die computergestützte Musikforschung]]
 - **Tools**: [[2023-10-10-jupyter_notebook|Jupyter Notebooks]]; [[2023-10-10-markdown|Markdown]]; [[2023-10-17-python-auffrischung|Python Auffrischung]]; [[2023-10-24-numpy|NumPy]]; [[2023-10-31-matplotlib|Matplotlib]]
 - **DSP und Akustik Grundlagen**:
 	- [[2023-10-31-sinuswelle-erzeugen|Sinuswelle Erzeugen]]: Sampling; (Erzeugung von) Sinuswellen; Visualisierung von Wellenformen mit `matplotlib`
 	- [[2023-11-07-midifreq_timeframing|Frequenz-MIDI-Berechnung; Hüllkurvenberechnung mittels Time-Framing]]
 - **Fourier Transformation und Spektralanalyse**: [[2023-11-14-komplexe-zahlen|komplexe Zahlen]]; [[2023-11-21-euler|Eulersche Identität; Eulersche Formel; komplexe Exponentialfunktion]]; [[2023-11-28-aehnlichkeitsmass-winding-machine|Ähnlichkeitsmaß; Winding Machine]]; [[2023-12-06-diskrete-fourier-transformation|Diskrete Fourier Transformation]]
+- **Short Time Fourier Transformation (STFT) und Spektrogramme**: [[2023-12-12-stft|STFT; Fensterung – Wiederholung und Neu-Anwendung]]; Darstellung von Spektrogrammen
 
 ---
 
-- **Short Time Fourier Transformation (STFT) und Spektrogramme**: STFT; Fensterung (Wiederholung und Neu-Anwendung); Darstellung von Spektrogrammen
 - **Audio Features**: (z.B.: Spektrale Zentrumsfrequenz, Chromagramm, MFCCs) mit `librosa`
 - **Music Information Retrieval (MIR) und Anwendungen**: (wie z.B.: Genre-Erkennung)
 - **Projektarbeit - Ideenfindung**
@@ -29,6 +26,7 @@ list_title: Sessions
 - [[2023-11-13-uebung-03|Übung_03]]
 - [[2023-10-23-uebung|Übung_04]]
 - [[2023-12-05-uebung-05|Übung_05]]
+- [[2023-12-11-uebung-06|Übung_06]]
 
 ### Geogebra-Ressourcen
 
