@@ -24,6 +24,7 @@
 - [Übung_04](/cmf_jekyll/assets/uebungen/TCGM_04.ipynb)
 - [Übung_05](/cmf_jekyll/assets/uebungen/TCGM_05.ipynb)
 - [Übung_06](/cmf_jekyll/assets/uebungen/TCGM_06.ipynb)
+- [Übung_07](cmf_jekyll/_posts/2024-01-15-uebung-07.md)
 
 ## Geogebra-Ressourcen
 

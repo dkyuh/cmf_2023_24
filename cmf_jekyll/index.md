@@ -27,6 +27,7 @@ list_title: Sessions
 - [[2023-10-23-uebung|Übung_04]]
 - [[2023-12-05-uebung-05|Übung_05]]
 - [[2023-12-11-uebung-06|Übung_06]]
+- [[2024-01-15-uebung-07|Übung_07]]
 
 ### Geogebra-Ressourcen
 
