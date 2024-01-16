@@ -8,7 +8,7 @@
 	- [Sampling; (Erzeugung von) Sinuswellen; Visualisierung von Wellenformen mit `matplotlib`](/cmf_jekyll/_site/2023/10/31/sinuswelle-erzeugen.html)
 	- [Frequenz-MIDI-Berechnung; Hüllkurvenberechnung mittels Time-Framing](/cmf_jekyll/assets/notebooks/midifreq_timeframing.ipynb)
 - **Fourier Transformation und Spektralanalyse**: [komplexe Zahlen](/cmf_jekyll/assets/notebooks/komplexe_zahlen.ipynb); [Eulersche Identität; Eulersche Formel; komplexe Exponentialfunktion](/cmf_jekyll/assets/notebooks/euler.ipynb); [Ähnlichkeitsmaß; Winding Machine](/cmf_jekyll/assets/notebooks/winding_machine.ipynb); [Diskrete Fourier Transformation (DFT)](/cmf_jekyll/assets/notebooks/dft.ipynb)
-- **Short Time Fourier Transformation (STFT) und Spektrogramme**: [STFT; Fensterung (Wiederholung und Neu-Anwendung)](/cmf_jekyll/assets/notebooks/ueb_stft.ipynb); Darstellung von Spektrogrammen
+- **Short Time Fourier Transformation (STFT) und Spektrogramme**: [STFT; Fensterung (Wiederholung und Neu-Anwendung)](/cmf_jekyll/assets/notebooks/ueb_stft.ipynb); [Darstellung von Spektrogrammen](cmf_jekyll/_posts/2024-01-16-stft-visualisierung-und-vertiefung.md)
 
 ---
 

@@ -11,7 +11,7 @@ list_title: Sessions
 	- [[2023-10-31-sinuswelle-erzeugen|Sinuswelle Erzeugen]]: Sampling; (Erzeugung von) Sinuswellen; Visualisierung von Wellenformen mit `matplotlib`
 	- [[2023-11-07-midifreq_timeframing|Frequenz-MIDI-Berechnung; Hüllkurvenberechnung mittels Time-Framing]]
 - **Fourier Transformation und Spektralanalyse**: [[2023-11-14-komplexe-zahlen|komplexe Zahlen]]; [[2023-11-21-euler|Eulersche Identität; Eulersche Formel; komplexe Exponentialfunktion]]; [[2023-11-28-aehnlichkeitsmass-winding-machine|Ähnlichkeitsmaß; Winding Machine]]; [[2023-12-06-diskrete-fourier-transformation|Diskrete Fourier Transformation]]
-- **Short Time Fourier Transformation (STFT) und Spektrogramme**: [[2023-12-12-stft|STFT; Fensterung – Wiederholung und Neu-Anwendung]]; Darstellung von Spektrogrammen
+- **Short Time Fourier Transformation (STFT) und Spektrogramme**: [[2023-12-12-stft|STFT; Fensterung – Wiederholung und Neu-Anwendung]]; [[2024-01-16-stft-visualisierung-und-vertiefung|Darstellung von Spektrogrammen]]
 
 ---
 
