@@ -8,13 +8,9 @@
 	- [Sampling; (Erzeugung von) Sinuswellen; Visualisierung von Wellenformen mit `matplotlib`](/cmf_jekyll/assets/notebooks/sinus_erzeugen.ipynb)
 	- [Frequenz-MIDI-Berechnung; Hüllkurvenberechnung mittels Time-Framing](/cmf_jekyll/assets/notebooks/midifreq_timeframing.ipynb)
 - **Fourier Transformation und Spektralanalyse**: [komplexe Zahlen](/cmf_jekyll/assets/notebooks/komplexe_zahlen.ipynb); [Eulersche Identität; Eulersche Formel; komplexe Exponentialfunktion](/cmf_jekyll/assets/notebooks/euler.ipynb); [Ähnlichkeitsmaß; Winding Machine](/cmf_jekyll/assets/notebooks/winding_machine.ipynb); [Diskrete Fourier Transformation (DFT)](/cmf_jekyll/assets/notebooks/dft.ipynb)
-- **Short Time Fourier Transformation (STFT) und Spektrogramme**: [STFT; Fensterung (Wiederholung und Neu-Anwendung)](/cmf_jekyll/assets/notebooks/ueb_stft.ipynb); [Darstellung von Spektrogrammen](cmf_jekyll/assets/notebooks/stft_vertiefung_visualisierung.ipynb)
-
----
-
-- **Audio Features**: (z.B.: Spektrale Zentrumsfrequenz, Chromagramm, MFCCs) mit `librosa`
-- **Music Information Retrieval (MIR) und Anwendungen**: (wie z.B.: Genre-Erkennung)
-- **Projektarbeit - Ideenfindung**
+- **Short Time Fourier Transformation (STFT) und Spektrogramme**: [STFT; Fensterung (Wiederholung und Neu-Anwendung)](/cmf_jekyll/assets/notebooks/ueb_stft.ipynb); [Darstellung von Spektrogrammen](/cmf_jekyll/assets/notebooks/stft_vertiefung_visualisierung.ipynb)
+- **[Audio Features](/cmf_jekyll/assets/notebooks/audio_features.ipynb)**
+- **[Projektarbeit](/cmf_jekyll/_posts/2024-02-06-projektarbeit.md)**
 
 ## Übung
 
